@@ -1,0 +1,810 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script
+  src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/f70f5cadbf.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Bahianita|DM+Serif+Display|Roboto&display=swap" rel="stylesheet">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    $(document).ready(function() {
+    $('#list').click(function(event){event.preventDefault();$('#products .item').addClass('list-group-item');});
+    //$('#grid').click(function(event){event.preventDefault();$('#products .item').removeClass('list-group-item');$('#products .item').addClass('grid-group-item');});
+});
+    </script>
+        <div id="slideout-menu">
+                <ul>
+                        <li><a href="components.php">Components</a></li>
+                        <li><a href="processor.html">Build your PC</a></li>
+                        
+                            
+                        <li>
+                                    
+                                    <div id="cart-icon"><a ><i class="fa fa-shopping-cart">Cart</i></a></div>
+                                    
+                        </li>
+                        <li>
+                                    <a href="login.php"><i class="fa fa-user">Account</i></a>
+                                    
+                        </li>
+                    </ul>
+        </div>
+            <nav>
+                <a href="home.html"><h1>PC Builder</h1></a>
+        <div id="menu-icon">
+            <i class="fas fa-bars"></i>
+        </div>
+        <ul>
+            
+            <li><a href="components.php">Components</a></li>
+            <li><a href="processor.html">Build your PC</a></li>
+            
+            <li><div id="cart-icon">
+                    <a href="#"><i class="fa fa-shopping-cart"></i></a>
+                </div></li>
+            <li><div id="user-icon">
+                    <a href="login.php"><i class="fa fa-user"></i></a>
+            </div></li>
+        </ul>
+            
+        </nav>   
+        <div id="myModal" class="modal">
+
+                <!-- Modal content -->
+                <div class="modal-content">
+                  <span class="close">&times;</span>
+                  <p style="color:black;background:burlywood;font-size:2vw;" align="center">Added to cart!</p>
+                </div>
+              
+              </div> 
+    <div class="container" >
+        <div class="well well-sm" style="background:black; border:0;">
+            <strong></strong>
+            <div class="btn-group" style="margin-top:5vw;">
+                <a href="#" id="list" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-th-list">
+                </span>List</a> <a href="#" id="grid" class="btn btn-default btn-sm"><span
+                    class="glyphicon glyphicon-th"></span>Grid</a>
+            </div>
+        </div>
+        <div id="products" class="row list-group">
+            <div class="item  col-xs-4 col-lg-4">
+                <div class="thumbnail">
+                    <img class="group list-group-image" src="ryzen.jpg" alt="" />
+                    <div class="caption">
+                        <h4 class="group inner list-group-item-heading">
+                                AMD Ryzen 5 1600X</h4>
+                        <p class="group inner list-group-item-text" style="color:black;line-height: 1"> 
+                            Type:CPU, Brand:AMD, Model:Ryzen 5 1600X, Cores:6, Speed:3.6GHz, Socket:AM4, TDP:95W</p>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <p class="lead" style="color:black;">
+                                    Rs.20,000</p>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <a class="btn btn-success"  value="Add to cart">Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item  col-xs-4 col-lg-4">
+                <div class="thumbnail">
+                    <img class="group list-group-image" src="i7.jpg" alt="" />
+                    <div class="caption">
+                        <h4 class="group inner list-group-item-heading">
+                        Intel Core i7-8700K</h4>
+                        <p class="group inner list-group-item-text" style="color:black;line-height: 1">
+                                Type:CPU, Brand:Intel, Model:Core i7-8700K, Cores:6, Speed:3.6GHz, Socket:LGA1151, TDP:95W</p>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <p class="lead" style="color:black;">
+                                    Rs.32000</p>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <a class="btn btn-success"  >Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item  col-xs-4 col-lg-4">
+                    <div class="thumbnail" >
+                        <img class="group list-group-image" src="mobo.jpg" alt="" />
+                        <div class="caption">
+                            
+                            <h4 class="group inner list-group-item-heading" >
+                                    MSI Z370 Gaming Plus</h4>
+                            <p class="group inner list-group-item-text" style="color:black;line-height: 1">
+                                Type:Motherboard, Brand:MSI, 
+                                Model:Z370, Socket:LGA1151, 
+                                Form Factor:ATX</p>
+                            <div class="row">
+                                <div class="col-xs-12 col-md-6">
+                                    <p class="lead" style="color:black;">
+                                        Rs.11500</p>
+                                </div>
+                                
+                                <div class="col-xs-12 col-md-6">
+                                    <a class="btn btn-success"  >Add to cart</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            <div class="item  col-xs-4 col-lg-4">
+                <div class="thumbnail">
+                    <img class="group list-group-image" src="fury.jpg" alt="" />
+                    <div class="caption">
+                        <h4 class="group inner list-group-item-heading">
+                            HyperX FURY Black 8 GB</h4>
+                        <p class="group inner list-group-item-text" style="color:black;line-height: 1">
+                            Type:RAM, Brand:Hyper X, Model:FURY Black, Format:DDR4, Size:8 GB.</p>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <p class="lead" style="color:black;">
+                                    Rs.3700</p>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <a class="btn btn-success" >Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item  col-xs-4 col-lg-4">
+                <div class="thumbnail">
+                    <img class="group list-group-image" src="gtx.jpg" alt="" />
+                    <div class="caption">
+                        <h4 class="group inner list-group-item-heading">
+                                Nvidia GeForce GTX 1080 Ti</h4>
+                        <p class="group inner list-group-item-text" style="color:black;line-height: 1">
+                            Type:GPU, Brand:Nvidia, Model:GeForce GTX 1080 Ti, Size:11 Gb</p>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <p class="lead" style="color:black;">
+                                    Rs.90000</p>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <a class="btn btn-success"  >Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item  col-xs-4 col-lg-4">
+                <div class="thumbnail">
+                    <img class="group list-group-image" src="cooler.jpg" alt="" />
+                    <div class="caption">
+                        <h4 class="group inner list-group-item-heading">
+                            Cooler Master Hyper 212</h4>
+                        <p class="group inner list-group-item-text" style="color:black;line-height: 1">
+                            Type:Cooler, Brand:Cooler Master, Model:Hyper 212 cooler</p>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <p class="lead" style="color:black;">
+                                    Rs.3500</p>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <a class="btn btn-success" >Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="savetocart">
+    <button type="submit" name="save" onclick="save();"  style="font-family: 'Roboto',sans-serif; text-transform: uppercase;outline: 0;background: dodgerblue;width: 20%;border: 0%;padding: 1.1vw;color: #ffffff;font-size: 1.5vw;cursor: pointer;margin-left:60vw;margin-bottom:3vw;">Save to cart</button>
+    </div>
+    <footer>
+            <div id="left-footer">
+                
+                <ul>
+                    <li><h3>Quick Links</h3></li>
+                    <li><a href="notice.html">Terms of Service</a></li>
+                    <li><a href="notice.html">Privacy Policy</a></li>
+                    <li><a href="notice.html">About Us</a></li>
+                    <li><a href="notice.html">Contact Us</a></li>
+                </ul>
+            </div>
+                <div id="left-footer2">
+                
+                <ul>
+                    <li><h3>Services</h3></li>
+                    <li><a href="components.php">Components</a></li>
+                    <li><a href="processor.html">Build your PC</a></li>
+                </ul>
+            </div>
+            
+            <div id="right-footer">
+                
+                <ul>
+                    <li><h3>Follow us</h3></li>
+                        <li><a href="notice.html"><i class="fab fa-facebook">  Facebook</i></a></li>
+                        <li><a href="notice.html"><i class="fab fa-instagram">  Instagram</i></a></li>
+                        <li><a href="notice.html"><i class="fab fa-youtube">  Youtube</i></a></li>
+                    </ul>
+            </div>
+            
+        </footer>
+        <div id="lastline"><p>© 2019, TechEx Pvt Ltd. All Rights Reserved.</p></div>
+<script>
+$(document).ready(function() {
+    $('#list').click(function(event){event.preventDefault();$('#products .item').addClass('list-group-item');});
+    $('#grid').click(function(event){event.preventDefault();$('#products .item').removeClass('list-group-item');$('#products .item').addClass('grid-group-item');});
+});
+
+
+</script>
+<script>
+        const menuIcon = document.getElementById("menu-icon");
+                const slideoutmenu=document.getElementById("slideout-menu");
+                menuIcon.addEventListener('click', function(){
+                    if(slideoutmenu.style.opacity=="1"){
+                        slideoutmenu.style.opacity='0';
+                        slideoutmenu.style.pointerEvents='none';
+                    }
+                    else{
+                        slideoutmenu.style.opacity='1';
+                        slideoutmenu.style.pointerEvents='auto';
+                    }
+                });
+        </script>
+<script>
+
+    var cart=[];
+    change();
+function change() {
+  //document.getElementsByClassName("btn btn-success")[0].value = "Remove from cart";
+  var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementsByClassName("btn btn-success");
+//btn[0].onclick=btn[0].value="Remove from cart";
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn[0].onclick = function() {
+  
+  if(btn[0].innerHTML=="Add to cart"){
+    modal.style.display = "block";
+    cart.push((document.getElementsByTagName("h4")[0].innerHTML).toString().trim());
+    btn[0].innerHTML="Remove";
+  }
+  else{
+      cart.pop();
+      btn[0].innerHTML="Add to cart";
+    
+  }
+}
+btn[1].onclick = function() {
+    if(btn[1].innerHTML=="Add to cart"){
+    modal.style.display = "block";
+    cart.push((document.getElementsByTagName("h4")[1].innerHTML).toString().trim());
+    btn[1].innerHTML="Remove";
+  }
+  else{
+      cart.pop();
+      btn[1].innerHTML="Add to cart";
+    
+  }
+  
+}
+btn[2].onclick = function() {
+    if(btn[2].innerHTML=="Add to cart"){
+    modal.style.display = "block";
+    cart.push((document.getElementsByTagName("h4")[2].innerHTML).toString().trim());
+    btn[2].innerHTML="Remove";
+  }
+  else{
+      cart.pop();
+      btn[2].innerHTML="Add to cart";
+    
+  }
+  
+}
+btn[3].onclick = function() {
+    if(btn[3].innerHTML=="Add to cart"){
+    modal.style.display = "block";
+    cart.push((document.getElementsByTagName("h4")[3].innerHTML).toString().trim());
+    btn[3].innerHTML="Remove";
+  }
+  else{
+      cart.pop();
+      btn[3].innerHTML="Add to cart";
+    
+  }
+  
+}
+btn[4].onclick = function() {
+    if(btn[4].innerHTML=="Add to cart"){
+    modal.style.display = "block";
+    cart.push((document.getElementsByTagName("h4")[4].innerHTML).toString().trim());
+    btn[4].innerHTML="Remove";
+  }
+  else{
+      cart.pop();
+      btn[4].innerHTML="Add to cart";
+    
+  }
+  
+}
+btn[5].onclick = function() {
+    if(btn[5].innerHTML=="Add to cart"){
+    modal.style.display = "block";
+    cart.push((document.getElementsByTagName("h4")[5].innerHTML).toString().trim());
+    btn[5].innerHTML="Remove";
+  }
+  else{
+      cart.pop();
+      btn[5].innerHTML="Add to cart";
+    
+  }
+  
+}
+
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+return false;
+}
+function save(){
+   var str="";
+   for(i=0;i<cart.length;i++){
+        str+=("prod"+i+"="+cart[i]+"&");
+   }  
+   window.location="temp.php?"+str;
+}
+
+</script>
+</body>
+</html>
+<style>
+        .modal {
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      padding-top: 8vw; /* Location of the box */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+    
+    /* Modal Content */
+    .modal-content {
+      background-color:burlywood;
+      margin: auto;
+      padding: 1.6vw;
+      /*border: 0px solid #888;*/
+      width: 50%;
+    }
+    
+    /* The Close Button */
+    .close {
+      color: #aaaaaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    
+    .close:hover,
+    .close:focus {
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+    }
+        body{
+            font-family: sans-serif;
+        margin:0;
+        background-image: url("CPU-Wallpaper-Free-Download.jpg");
+        }
+        h1{
+        margin-top: 0.3vw;
+        font-size: 3.7vw;
+        color: whitesmoke;
+    }
+    h2{
+        color: whitesmoke;
+    }
+    p{
+        line-height: 1.5;
+        color: white;
+    }
+    main{
+        margin: 0 auto;
+    }
+    a{
+        text-decoration: none;
+        color: #ff0000cc;
+    }
+    a:hover{
+        color:black;
+    }
+    
+    #cart-icon{
+        height: 100%;
+        font-size: 2.3vw;
+        color: whitesmoke;
+        cursor: pointer;
+        padding: 0 4px;
+        transition: 0.4s;
+        align-items: center;
+        justify-content: stretch;  
+        margin-left: 6vw;
+    }
+    #cart-icon:hover{
+        color: black;
+    
+    }
+    #user-icon{
+        height: 100%;
+        font-size: 2.3vw;
+        color: whitesmoke;
+        cursor: pointer;
+        padding: 0 4px;
+        transition: 0.4s;
+        align-items: center;
+        justify-content: stretch;
+    }
+    #user-icon:hover{
+        color: black;
+    
+    }
+    
+    #menu-icon{
+        display:none;
+        height: 100%;
+        font-size: 3.5vw;
+        color: whitesmoke;
+        padding: 0 80vw;
+        margin-top: 1vw;
+        margin-bottom: 2vw;
+        margin-right: 0.2vw;
+        right: 0;
+        align-content: center;
+        }
+    #menu-icon:hover{
+        color: black;
+        transition: 0.4s;
+        cursor: pointer;
+    }
+    #searchbox{
+        left: 0;
+        widows: 10vw;
+        z-index: 50;
+        transition: 0.4s;
+    }
+    #searchbox input{
+        height:48px;
+        width: 100%;
+    }
+    input, textarea{
+        height: 32px;
+        padding: 0 4px;
+        font-size: 20px;
+        box-shadow: inset 8px 3px 18px -4px #00000066
+    }
+    input:focus,textarea:focus{
+        outline: none;
+    }
+    nav{
+        height: 65px;
+        background:#ff0000;
+        width:100%;
+        margin: 0;
+        position:fixed;
+        font-size:2vw;
+        display: flex;
+        justify-content: stretch;
+        padding:0 2vw;
+        box-sizing: border-box;
+        z-index: 100;
+    }
+    nav a{
+        padding: 0 2.3vw;
+        color: whitesmoke;
+        transition: 0.4s;
+       
+    }
+    nav a :hover{
+        text-decoration: none;
+        color: black;
+        transition: 0.4s;
+    }
+    nav ul{
+        display:inline-flex;
+        list-style: none;
+        justify-content: space-between;
+        align-items: center;
+        align-content: flex-start;
+        margin-left: 4vw;
+    }
+    nav li a {
+        display: flex;
+      }
+     
+    #slideout-menu{
+        display: none;
+        background-color: firebrick;
+        transition: 0.4s;
+        margin-top: 5.1vw;
+        position:fixed;
+        text-align: center;
+        width: 100%;
+        z-index: 100;
+        opacity: 0;
+        pointer-events: none;
+        }
+    #products{
+        color: black;
+    
+    }
+    
+    
+    @media(max-width:900px) {
+        h1 {
+            font-size: 5.4vw;
+            margin-top: 0.4vw;
+            position: fixed;
+        }
+
+    }
+
+    @media(max-width:600px) {
+        nav {
+            height: 9vw;
+        }
+
+        h1 {
+            font-size: 6.7vw;
+        }
+
+        #menu-icon {
+            font-size: 6vw;
+        }
+
+        #slideout-menu {
+            margin-top: 7vw;
+        }
+    } 
+        #slideout-menu{
+        display: block;
+        }
+        nav{
+            height: 7.5vw;
+        }
+       
+    
+    @media(max-width:1350px)
+    {
+        h1{
+            font-size: 2.3vw;
+            margin-top:1.2vw;
+            margin-bottom:0.3vw;
+        }
+    
+    }
+    @media(max-width:900px){
+        h1{
+            font-size: 3.7vw;
+            margin-top:0.4vw;
+            position: fixed
+        }
+    }
+    #slideout-menu ul{
+        list-style: none;
+        color: white;
+       
+        margin: 1.3vw;
+       
+    }
+    #slideout-menu ul li{
+        padding: 1vw 0;
+    }
+    #slideout-menu a:hover{
+        color: black;
+        transition: 0.4s;
+    }
+    #slideout-menu a{
+        color: white;
+        padding: 2vw 0;
+        margin: 10px;
+        font-size: 3vw;
+    }
+    
+    img{
+        height: 250px;
+        width: 250px;
+    }
+    .glyphicon { margin-right:5px; }
+    .thumbnail
+    {
+        margin-bottom: 20px;
+        padding: 0px;
+        -webkit-border-radius: 0px;
+        -moz-border-radius: 0px;
+        border-radius: 0px;
+    }
+    
+    .item.list-group-item
+    {
+        float: none;
+        width: 100%;
+        background-color: #fff;
+        /*margin-bottom: 10px*/;
+    }
+    .item.list-group-item:nth-of-type(odd):hover,.item.list-group-item:hover
+    {
+        background: #428bca;
+    }
+    
+    .item.list-group-item .list-group-image
+    {
+        margin-right: 10px;
+    }
+    .item.list-group-item .thumbnail
+    {
+        margin-bottom: 0px;
+        color: black;
+    }
+    .item.list-group-item .caption
+    {
+        padding: 9px 9px 0px 9px;
+    }
+    .item.list-group-item:nth-of-type(odd)
+    {
+        background: #eeeeee;
+    }
+    
+    .item.list-group-item:before, .item.list-group-item:after
+    {
+        display: table;
+        content: " ";
+    }
+    
+    .item.list-group-item img
+    {
+        float: left;
+    }
+    .item.list-group-item:after
+    {
+        clear: both;
+    }
+    .list-group-item-text
+    {
+        margin: 0 0 11px;
+    }
+    footer {
+        display: inline-flex;
+        text-align: center;
+        color: white;
+        font-size: 1.61vw;
+        background: #000000e6;
+        width: 100%;
+        position: relative;
+    }
+
+    footer a {
+        color: whitesmoke;
+        padding-bottom: 1.5vw;
+    }
+
+    footer a:hover {
+        color: red;
+        transition: 0.4s;
+    }
+
+    footer ul {
+        list-style: none;
+
+    }
+
+    footer ul li {
+        padding: 0.3vw 0;
+    }
+
+    footer h3 {
+        color: red;
+        text-decoration: underline;
+    }
+
+    #left-footer {
+        /*margin-left: 12.95vw;
+    margin-right: 9.14vw;*/
+        padding-left: 10.1vw;
+        justify-content: center;
+
+    }
+
+    #left-footer a {
+        padding-bottom: 1.5vw;
+    }
+
+    #left-footer2 {
+        /*margin-left: 125px;
+    margin-right: 125px;*/
+        padding-left: 19.1vw;
+        justify-content: center;
+    }
+
+    #right-footer {
+        /*margin-left: 125px;
+    margin-right: 175px;*/
+        padding-left: 19.1vw;
+
+        justify-content: center;
+    }
+
+    #lastline {
+        text-align: center;
+        font-size: 1.2vw;
+    }
+
+    @media(max-width:900px) {
+        footer {
+            display: block;
+            font-size: 3vw;
+            background: rgb(17, 17, 17);
+            padding: 1px 0;
+            size: 100%;
+            text-align: start;
+        }
+
+        p {
+            font-size: 1.9vw;
+        }
+
+        #left-footer {
+            padding-left: 0;
+        }
+
+        #left-footer a {
+            padding-bottom: 1.5vw;
+        }
+
+        #left-footer2 {
+            padding-left: 0;
+
+        }
+
+        #right-footer {
+            padding-left: 0;
+        }
+    }
+</style>
+
+<body>
+
+</body>
+
+</html>

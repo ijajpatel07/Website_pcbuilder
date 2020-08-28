@@ -1,0 +1,146 @@
+<SSDs>
+<SSD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<sd>Kingston SSDNow UV400 120GB</sd>
+    <brand>Kingston</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<sd>SanDisk SSD Plus</sd>
+    <brand>SanDisk</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<sd>Samsung 850 EVO</sd>
+    <brand>Kingston</brand>
+<hdsize>250</hdsize>
+    <price>7000</price>
+</SSD>
+
+<SSD>
+<CPU>AMD A4 4000</CPU>
+<sd>Kingston SSDNow UV400 120GB</sd>
+    <brand>Kingston</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>AMD A4 4000</CPU>
+<sd>SanDisk SSD Plus</sd>
+    <brand>SanDisk</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>AMD A4 4000</CPU>
+<sd>Samsung 850 EVO</sd>
+    <brand>Kingston</brand>
+<hdsize>250</hdsize>
+    <price>7000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel i3 8100</CPU>
+<sd>Kingston SSDNow UV400 120GB</sd>
+    <brand>Kingston</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel i3 8100</CPU>
+<sd>SanDisk SSD Plus</sd>
+    <brand>SanDisk</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel i3 8100</CPU>
+<sd>Samsung 850 EVO</sd>
+    <brand>Kingston</brand>
+<hdsize>250</hdsize>
+    <price>7000</price>
+</SSD>
+
+<SSD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<sd>Kingston SSDNow UV400 120GB</sd>
+    <brand>Kingston</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<sd>SanDisk SSD Plus</sd>
+    <brand>SanDisk</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>AMD Ryzen 5 1600X0</CPU>
+<sd>Samsung 850 EVO</sd>
+    <brand>Kingston</brand>
+<hdsize>250</hdsize>
+    <price>7000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core i5 8600K</CPU>
+<sd>Kingston SSDNow UV400 120GB</sd>
+    <brand>Kingston</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core i5 8600K</CPU>
+<sd>SanDisk SSD Plus</sd>
+    <brand>SanDisk</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core i5 8600K</CPU>
+<sd>Samsung 850 EVO</sd>
+    <brand>Kingston</brand>
+<hdsize>250</hdsize>
+    <price>7000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core i7-8700K</CPU>
+<sd>Kingston SSDNow UV400 120GB</sd>
+    <brand>Kingston</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core i7-8700K</CPU>
+<sd>SanDisk SSD Plus</sd>
+    <brand>SanDisk</brand>
+<hdsize>120</hdsize>
+    <price>4000</price>
+</SSD>
+
+<SSD>
+<CPU>Intel Core i7-8700K</CPU>
+<sd>Samsung 850 EVO</sd>
+    <brand>Kingston</brand>
+<hdsize>250</hdsize>
+    <price>7000</price>
+</SSD>
+
+</SSDs>

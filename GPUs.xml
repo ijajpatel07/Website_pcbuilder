@@ -1,0 +1,289 @@
+<GPUs>
+<GPU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<gp>Nvidia GeForce GTX 1050</gp>
+    <brand>MSI</brand>
+    <gp_size>2GB</gp_size>
+    <price>13000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<gp>Nvidia GeForce GTX 1050 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>4GB</gp_size>
+    <price>17000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<gp>Nvidia GeForce GTX1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>3GB</gp_size>
+    <price>26000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<gp>Nvidia GeForce GTX 1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>6GB</gp_size>
+    <price>38000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<gp>Nvidia GeForce GTX 1070 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>8GB</gp_size>
+    <price>59000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<gp>vidia GeForce GTX 1080 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>11GB</gp_size>
+    <price>90000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD A4 4000</CPU>
+	<gp>Nvidia GeForce GTX 1050</gp>
+    <brand>MSI</brand>
+    <gp_size>2GB</gp_size>
+    <price>13000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD A4 4000</CPU>
+	<gp>Nvidia GeForce GTX 1050 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>4GB</gp_size>
+    <price>17000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD A4 4000</CPU>
+	<gp>Nvidia GeForce GTX1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>3GB</gp_size>
+    <price>26000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD A4 4000</CPU>
+	<gp>Nvidia GeForce GTX 1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>6GB</gp_size>
+    <price>38000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD A4 4000</CPU>
+	<gp>Nvidia GeForce GTX 1070 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>8GB</gp_size>
+    <price>59000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD A4 4000</CPU>
+	<gp>Nvidia GeForce GTX 1080 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>11GB</gp_size>
+    <price>90000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel i3 8100</CPU>
+	<gp>Nvidia GeForce GTX 1050</gp>
+    <brand>MSI</brand>
+    <gp_size>2GB</gp_size>
+    <price>13000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel i3 8100</CPU>
+	<gp>Nvidia GeForce GTX 1050 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>4GB</gp_size>
+    <price>17000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel i3 8100</CPU>
+	<gp>Nvidia GeForce GTX1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>3GB</gp_size>
+    <price>26000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel i3 8100</CPU>
+	<gp>Nvidia GeForce GTX 1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>6GB</gp_size>
+    <price>38000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel i3 8100</CPU>
+	<gp>Nvidia GeForce GTX 1070 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>8GB</gp_size>
+    <price>59000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel i3 8100</CPU>
+	<gp>Nvidia GeForce GTX 1080 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>11GB</gp_size>
+    <price>90000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<gp>Nvidia GeForce GTX 1050</gp>
+    <brand>MSI</brand>
+    <gp_size>2GB</gp_size>
+    <price>13000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<gp>Nvidia GeForce GTX 1050 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>4GB</gp_size>
+    <price>17000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<gp>Nvidia GeForce GTX1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>3GB</gp_size>
+    <price>26000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD Ryzen 5 1600X0</CPU>
+	<gp>Nvidia GeForce GTX 1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>6GB</gp_size>
+    <price>38000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<gp>Nvidia GeForce GTX 1070 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>8GB</gp_size>
+    <price>59000</price>
+</GPU>
+
+<GPU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<gp>Nvidia GeForce GTX 1080 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>11GB</gp_size>
+    <price>90000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i5 8600K</CPU>
+	<gp>Nvidia GeForce GTX 1050</gp>
+    <brand>MSI</brand>
+    <gp_size>2GB</gp_size>
+    <price>13000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i5 8600K</CPU>
+	<gp>Nvidia GeForce GTX 1050 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>4GB</gp_size>
+    <price>17000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i5 8600K</CPU>
+	<gp>Nvidia GeForce GTX1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>3GB</gp_size>
+    <price>26000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i5 8600K</CPU>
+	<gp>Nvidia GeForce GTX 1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>6GB</gp_size>
+    <price>38000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i5 8600K</CPU>
+	<gp>Nvidia GeForce GTX 1070 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>8GB</gp_size>
+    <price>59000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i5 8600K</CPU>
+	<gp>Nvidia GeForce GTX 1080 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>11GB</gp_size>
+    <price>90000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i7-8700K</CPU>
+	<gp>Nvidia GeForce GTX 1050</gp>
+    <brand>MSI</brand>
+    <gp_size>2GB</gp_size>
+    <price>13000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i7-8700K</CPU>
+	<gp>Nvidia GeForce GTX 1050 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>4GB</gp_size>
+    <price>17000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i7-8700K</CPU>
+	<gp>Nvidia GeForce GTX1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>3GB</gp_size>
+    <price>26000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i7-8700K</CPU>
+	<gp>Nvidia GeForce GTX 1060</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>6GB</gp_size>
+    <price>38000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i7-8700K</CPU>
+	<gp>Nvidia GeForce GTX 1070 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>8GB</gp_size>
+    <price>59000</price>
+</GPU>
+
+<GPU>
+<CPU>Intel Core i7-8700K</CPU>
+	<gp>Nvidia GeForce GTX 1080 Ti</gp>
+    <brand>ZOTAC</brand>
+    <gp_size>11GB</gp_size>
+    <price>90000</price>
+</GPU>
+</GPUs>

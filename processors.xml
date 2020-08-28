@@ -1,0 +1,67 @@
+<Processors>
+<Processor>
+	<CPU>Intel Core 2 Duo E8400</CPU>
+	<brand>Intel</brand>
+	<model>E8400</model>
+	<cores>2</cores>
+	<speed>3 GHz</speed>
+	<socket>LGA775</socket>
+	<tdp>65 W</tdp>
+	<price>410</price>
+</Processor>
+
+<Processor>
+	<CPU>AMD A4 4000</CPU>
+	<brand>AMD</brand>
+	<model>A4 4000</model>
+	<cores>2</cores>
+	<speed>3.2 GHz</speed>
+	<socket>FM2</socket>
+	<tdp>65 W</tdp>
+	<price>2450</price>
+</Processor>
+
+<Processor>
+	<CPU>Intel i3 8100</CPU>
+	<brand>Intel</brand>
+	<model>i3 8100</model>
+	<cores>4</cores>
+	<speed>3.6 GHz</speed>
+	<socket>LGA1151</socket>
+	<tdp>65 W</tdp>
+	<price>9950</price>
+</Processor>
+
+<Processor>
+	<CPU>AMD Ryzen 5 1600X</CPU>
+	<brand>AMD</brand>
+	<model>Ryzen 5 1600x</model>
+	<cores>6</cores>
+	<speed>3.6 GHz</speed>
+	<socket>AM4</socket>
+	<tdp>95 W</tdp>
+	<price>20000</price>
+</Processor>
+
+<Processor>
+	<CPU>Intel Core i5 8600K</CPU>
+	<brand>Intel</brand>
+	<model>Core i5 8600K</model>
+	<cores>6</cores>
+	<speed>3.6 GHz</speed>
+	<socket>LGA1151</socket>
+	<tdp>95 W</tdp>
+	<price>23200</price>
+</Processor>
+
+<Processor>
+	<CPU>Intel Core i7-8700K</CPU>
+	<brand>Intel</brand>
+	<model>i7-8700K</model>
+	<cores>6</cores>
+	<speed>3.7 GHz</speed>
+	<socket>LGA1151</socket>
+	<tdp>95 W</tdp>
+	<price>32000</price>
+</Processor>
+</Processors>

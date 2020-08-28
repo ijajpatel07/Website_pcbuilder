@@ -1,0 +1,137 @@
+<Rams>
+<Ram>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ram>Kingston Value RAM 2GB 240-Pin DDR3</ram>
+    <brand>Kingston</brand>
+    <type>DDR3</type>
+    <size>2GB</size>
+    <price>1000</price>
+</Ram>
+
+<Ram>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ram>Samsung PC3-10600 DDR3</ram>
+    <brand>Samsung</brand>
+    <type>DDR3</type>
+    <size>4GB</size>
+    <price>2299</price>
+</Ram>
+
+<Ram>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ram>JM1600KLH-4G</ram>
+    <brand>Transcend</brand>
+    <type>DDR3</type>
+    <size>4GB</size>
+    <price>2800</price>
+</Ram>
+
+<Ram>
+<CPU>AMD A4 4000</CPU>
+	<ram>Kingston Value RAM 2GB 240-Pin DDR3</ram>
+    <brand>Kingston</brand>
+    <type>DDR3</type>
+    <size>2GB</size>
+    <price>1000</price>
+</Ram>
+
+<Ram>
+<CPU>AMD A4 4000</CPU>
+	<ram>Samsung PC3-10600 DDR3</ram>
+    <brand>Samsung</brand>
+    <type>DDR3</type>
+    <size>4GB</size>
+    <price>2299</price>
+</Ram>
+
+<Ram>
+<CPU>AMD A4 4000</CPU>
+	<ram>JM1600KLH-4G</ram>
+    <brand>Transcend</brand>
+    <type>DDR3</type>
+    <size>4GB</size>
+    <price>2800</price>
+</Ram>
+
+<Ram>
+<CPU>Intel i3 8100</CPU>
+	<ram>G.SKILL Ripjaws V</ram>
+    <brand>G.SKILL</brand>
+    <type>DDR4</type>
+    <size>8GB</size>
+    <price>8299</price>
+</Ram>
+
+<Ram>
+<CPU>Intel i3 8100</CPU>
+	<ram>Crucial CT16G4SFD8213 16GB</ram>
+    <brand>Crucial</brand>
+    <type>DDR4</type>
+    <size>16GB</size>
+    <price>12500</price>
+</Ram>
+
+<Ram>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ram>ADATA Premier ADT DDR4 U-DIMM</ram>
+    <brand>ADATA</brand>
+    <type>DDR4</type>
+    <size>4GB</size>
+    <price>3700</price>
+</Ram>
+
+<Ram>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ram>HyperX FURY Black 8 GB</ram>
+    <brand>HyperX</brand>
+    <type>DDR4</type>
+    <size>8GB</size>
+    <price>7599</price>
+</Ram>
+
+<Ram>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ram>G.SKILL Ripjaws V</ram>
+    <brand>G.SKILL</brand>
+    <type>DDR4</type>
+    <size>16GB</size>
+    <price>17999</price>
+</Ram>
+
+<Ram>
+<CPU>Intel Core i5 8600K</CPU>
+	<ram>G.SKILL Ripjaws V</ram>
+    <brand>G.SKILL</brand>
+    <type>DDR4</type>
+    <size>8GB</size>
+    <price>8299</price>
+</Ram>
+
+<Ram>
+<CPU>Intel Core i5 8600K</CPU>
+	<ram>Crucial CT16G4SFD8213 16GB</ram>
+    <brand>Crucial</brand>
+    <type>DDR4</type>
+    <size>16GB</size>
+    <price>12500</price>
+</Ram>
+
+<Ram>
+<CPU>Intel Core i7-8700K</CPU>
+	<ram>G.SKILL Ripjaws V</ram>
+    <brand>G.SKILL</brand>
+    <type>DDR4</type>
+    <size>8GB</size>
+    <price>8299</price>
+</Ram>
+
+<Ram>
+<CPU>Intel Core i7-8700K</CPU>
+	<ram>Crucial CT16G4SFD8213 16GB</ram>
+    <brand>Crucial</brand>
+    <type>DDR4</type>
+    <size>16GB</size>
+    <price>12500</price>
+</Ram>
+
+</Rams>

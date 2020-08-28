@@ -1,0 +1,114 @@
+<HeatSinks>
+<HeatSink>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hs>Deepcool GAMMAXX 400</hs>
+    <brand>DEEPCOOL</brand>
+    <price>2600</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>AMD A4 4000</CPU>
+<hs>Deepcool GAMMAXX 400</hs>
+    <brand>DEEPCOOL</brand>
+    <price>2600</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>AMD A4 4000</CPU>
+<hs>Cooler Master Hyper 212</hs>
+    <brand>Cooler Master</brand>
+    <price>3500</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>AMD A4 4000</CPU>
+<hs>Noctua NH-U12 S</hs>
+    <brand>Noctua</brand>
+    <price>9000</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel i3 8100</CPU>
+<hs>Deepcool GAMMAXX 400</hs>
+    <brand>DEEPCOOL</brand>
+    <price>2600</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel i3 8100</CPU>
+<hs>Cooler Master Hyper 212</hs>
+    <brand>Cooler Master</brand>
+    <price>3500</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel i3 8100</CPU>
+<hs>Noctua NH-U12 S</hs>
+    <brand>Noctua</brand>
+    <price>9000</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hs>Deepcool GAMMAXX 400</hs>
+    <brand>DEEPCOOL</brand>
+    <price>2600</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hs>Cooler Master Hyper 212</hs>
+    <brand>Cooler Master</brand>
+    <price>3500</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hs>Fractal Design Celsius S24</hs>
+    <brand>Fractal Design</brand>
+    <price>18700</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel Core i5 8600K</CPU>
+<hs>Deepcool GAMMAXX 400</hs>
+    <brand>DEEPCOOL</brand>
+    <price>2600</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel Core i5 8600K</CPU>
+<hs>Cooler Master Hyper 212</hs>
+    <brand>Cooler Master</brand>
+    <price>3500</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel Core i5 8600K</CPU>
+<hs>Noctua NH-U12 S</hs>
+    <brand>Noctua</brand>
+    <price>9000</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel Core i7-8700K</CPU>
+<hs>Deepcool GAMMAXX 400</hs>
+    <brand>DEEPCOOL</brand>
+    <price>2600</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel Core i7-8700K</CPU>
+<hs>Cooler Master Hyper 212</hs>
+    <brand>Cooler Master</brand>
+    <price>3500</price>
+</HeatSink>
+
+<HeatSink>
+<CPU>Intel Core i7-8700K</CPU>
+<hs>Noctua NH-U12 S</hs>
+    <brand>Noctua</brand>
+    <price>9000</price>
+</HeatSink>
+
+</HeatSinks>

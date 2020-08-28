@@ -1,0 +1,434 @@
+<HDDs>
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>Seagate 160GB SATA HDD</hd>
+    <brand>Seagate</brand>
+<hdsize>160GB</hdsize>
+    <price>790</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>Seagate Barracuda 250GB</hd>
+    <brand>Seagate</brand>
+<hdsize>250GB</hdsize>
+    <price>1500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>WD Caviar Blue 320 GB</hd>
+    <brand>Western Digital</brand>
+<hdsize>320GB</hdsize>
+    <price>1599</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>Western Digital WD5000LPCX 500 GB </hd>
+    <brand>Western Digital</brand>
+<hdsize>500GB</hdsize>
+    <price>2900</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>Seagate BarraCuda ST1000DM010 1TB</hd>
+    <brand>Seagate</brand>
+<hdsize>1TB</hdsize>
+    <price>3200</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>WD WD20EZRZ 2TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>2TB</hdsize>
+    <price>6500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>WD WD30EZRZ 3TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>3TB</hdsize>
+    <price>7700</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>Seagate IronWolf 4TB NAS</hd>
+    <brand>Seagate</brand>
+<hdsize>4TB</hdsize>
+    <price>11000</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core 2 Duo E8400</CPU>
+<hd>WD Red 8TB NAS</hd>
+    <brand>Western Digital</brand>
+<hdsize>8TB</hdsize>
+    <price>24000</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>Seagate 160GB SATA HDD</hd>
+    <brand>Seagate</brand>
+<hdsize>160GB</hdsize>
+    <price>790</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>Seagate Barracuda 250GB</hd>
+    <brand>Seagate</brand>
+<hdsize>250GB</hdsize>
+    <price>1500</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>WD Caviar Blue 320 GB</hd>
+    <brand>Western Digital</brand>
+<hdsize>320GB</hdsize>
+    <price>1599</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>Western Digital WD5000LPCX 500 GB </hd>
+    <brand>Western Digital</brand>
+<hdsize>500GB</hdsize>
+    <price>2900</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>Seagate BarraCuda ST1000DM010 1TB</hd>
+    <brand>Seagate</brand>
+<hdsize>1TB</hdsize>
+    <price>3200</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>WD WD20EZRZ 2TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>2TB</hdsize>
+    <price>6500</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>WD WD30EZRZ 3TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>3TB</hdsize>
+    <price>7700</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>Seagate IronWolf 4TB NAS</hd>
+    <brand>Seagate</brand>
+<hdsize>4TB</hdsize>
+    <price>11000</price>
+</HDD>
+
+<HDD>
+<CPU>AMD A4 4000</CPU>
+<hd>WD Red 8TB NAS</hd>
+    <brand>Western Digital</brand>
+<hdsize>8TB</hdsize>
+    <price>24000</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>Seagate 160GB SATA HDD</hd>
+    <brand>Seagate</brand>
+<hdsize>160GB</hdsize>
+    <price>790</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>Seagate Barracuda 250GB</hd>
+    <brand>Seagate</brand>
+<hdsize>250GB</hdsize>
+    <price>1500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>WD Caviar Blue 320 GB</hd>
+    <brand>Western Digital</brand>
+<hdsize>320GB</hdsize>
+    <price>1599</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>Western Digital WD5000LPCX 500 GB </hd>
+    <brand>Western Digital</brand>
+<hdsize>500GB</hdsize>
+    <price>2900</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>Seagate BarraCuda ST1000DM010 1TB</hd>
+    <brand>Seagate</brand>
+<hdsize>1TB</hdsize>
+    <price>3200</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>WD WD20EZRZ 2TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>2TB</hdsize>
+    <price>6500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>WD WD30EZRZ 3TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>3TB</hdsize>
+    <price>7700</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>Seagate IronWolf 4TB NAS</hd>
+    <brand>Seagate</brand>
+<hdsize>4TB</hdsize>
+    <price>11000</price>
+</HDD>
+
+<HDD>
+<CPU>Intel i3 8100</CPU>
+<hd>WD Red 8TB NAS</hd>
+    <brand>Western Digital</brand>
+<hdsize>8TB</hdsize>
+    <price>24000</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>Seagate 160GB SATA HDD</hd>
+    <brand>Seagate</brand>
+<hdsize>160GB</hdsize>
+    <price>790</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>Seagate Barracuda 250GB</hd>
+    <brand>Seagate</brand>
+<hdsize>250GB</hdsize>
+    <price>1500</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>WD Caviar Blue 320 GB</hd>
+    <brand>Western Digital</brand>
+<hdsize>320GB</hdsize>
+    <price>1599</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>Western Digital WD5000LPCX 500 GB </hd>
+    <brand>Western Digital</brand>
+<hdsize>500GB</hdsize>
+    <price>2900</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>Seagate BarraCuda ST1000DM010 1TB</hd>
+    <brand>Seagate</brand>
+<hdsize>1TB</hdsize>
+    <price>3200</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>WD WD20EZRZ 2TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>2TB</hdsize>
+    <price>6500</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>WD WD30EZRZ 3TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>3TB</hdsize>
+    <price>7700</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>Seagate IronWolf 4TB NAS</hd>
+    <brand>Seagate</brand>
+<hdsize>4TB</hdsize>
+    <price>11000</price>
+</HDD>
+
+<HDD>
+<CPU>AMD Ryzen 5 1600X</CPU>
+<hd>WD Red 8TB NAS</hd>
+    <brand>Western Digital</brand>
+<hdsize>8TB</hdsize>
+    <price>24000</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>Seagate 160GB SATA HDD</hd>
+    <brand>Seagate</brand>
+<hdsize>160GB</hdsize>
+    <price>790</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>Seagate Barracuda 250GB</hd>
+    <brand>Seagate</brand>
+<hdsize>250GB</hdsize>
+    <price>1500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>WD Caviar Blue 320 GB</hd>
+    <brand>Western Digital</brand>
+<hdsize>320GB</hdsize>
+    <price>1599</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>Western Digital WD5000LPCX 500 GB </hd>
+    <brand>Western Digital</brand>
+<hdsize>500GB</hdsize>
+    <price>2900</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>Seagate BarraCuda ST1000DM010 1TB</hd>
+    <brand>Seagate</brand>
+<hdsize>1TB</hdsize>
+    <price>3200</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>WD WD20EZRZ 2TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>2TB</hdsize>
+    <price>6500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>WD WD30EZRZ 3TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>3TB</hdsize>
+    <price>7700</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>Seagate IronWolf 4TB NAS</hd>
+    <brand>Seagate</brand>
+<hdsize>4TB</hdsize>
+    <price>11000</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i5 8600K</CPU>
+<hd>WD Red 8TB NAS</hd>
+    <brand>Western Digital</brand>
+<hdsize>8TB</hdsize>
+    <price>24000</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>Seagate 160GB SATA HDD</hd>
+    <brand>Seagate</brand>
+<hdsize>160GB</hdsize>
+    <price>790</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>Seagate Barracuda 250GB</hd>
+    <brand>Seagate</brand>
+<hdsize>250GB</hdsize>
+    <price>1500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>WD Caviar Blue 320 GB</hd>
+    <brand>Western Digital</brand>
+<hdsize>320GB</hdsize>
+    <price>1599</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>Western Digital WD5000LPCX 500 GB </hd>
+    <brand>Western Digital</brand>
+<hdsize>500GB</hdsize>
+    <price>2900</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>Seagate BarraCuda ST1000DM010 1TB</hd>
+    <brand>Seagate</brand>
+<hdsize>1TB</hdsize>
+    <price>3200</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>WD WD20EZRZ 2TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>2TB</hdsize>
+    <price>6500</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>WD WD30EZRZ 3TB</hd>
+    <brand>Western Digital</brand>
+<hdsize>3TB</hdsize>
+    <price>7700</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>Seagate IronWolf 4TB NAS</hd>
+    <brand>Seagate</brand>
+<hdsize>4TB</hdsize>
+    <price>11000</price>
+</HDD>
+
+<HDD>
+<CPU>Intel Core i7-8700K</CPU>
+<hd>WD Red 8TB NAS</hd>
+    <brand>Western Digital</brand>
+<hdsize>8TB</hdsize>
+    <price>24000</price>
+</HDD>
+
+</HDDs>

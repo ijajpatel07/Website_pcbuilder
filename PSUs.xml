@@ -1,0 +1,290 @@
+<PSUs>
+<PSU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ps>Corsair VS450 450-Watt</ps>
+    <brand>Corsair</brand>
+    <ps_size>ATX</ps_size>
+    <price>2500</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ps>Seasonic M12II-620</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>7800</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ps>EVGA 500 W1</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>9200</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ps>SeaSonic SSR-650RM</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>13300</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ps>EVGA SuperNOVA 750 G3</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>17700</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<ps>EVGA 850 GQ</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>26000</price>
+</PSU>
+
+<PSU>
+<CPU>AMD A4 4000</CPU>
+	<ps>Corsair VS450 450-Watt</ps>
+    <brand>Corsair</brand>
+    <ps_size>ATX</ps_size>
+    <price>2500</price>
+</PSU>
+
+<PSU>
+<CPU>AMD A4 4000</CPU>
+	<ps>Seasonic M12II-620</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>7800</price>
+</PSU>
+
+<PSU>
+<CPU>AMD A4 4000</CPU>
+	<ps>EVGA 500 W1</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>9200</price>
+</PSU>
+
+<PSU>
+<CPU>AMD A4 4000</CPU>
+	<ps>SeaSonic SSR-650RM</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>13300</price>
+</PSU>
+
+<PSU>
+<CPU>AMD A4 4000</CPU>
+	<ps>EVGA SuperNOVA 750 G3</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>17700</price>
+</PSU>
+
+<PSU>
+<CPU>AMD A4 4000</CPU>
+	<ps>EVGA 850 GQ</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>26000</price>
+</PSU>
+
+<PSU>
+<CPU>Intel i3 8100</CPU>
+	<ps>Corsair VS450 450-Watt</ps>
+    <brand>Corsair</brand>
+    <ps_size>ATX</ps_size>
+    <price>2500</price>
+</PSU>
+
+<PSU>
+<CPU>Intel i3 8100</CPU>
+	<ps>Seasonic M12II-620</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>7800</price>
+</PSU>
+
+<PSU>
+<CPU>Intel i3 8100</CPU>
+	<ps>EVGA 500 W1</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>9200</price>
+</PSU>
+
+<PSU>
+<CPU>Intel i3 8100</CPU>
+	<ps>SeaSonic SSR-650RM</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>13300</price>
+</PSU>
+
+<PSU>
+<CPU>Intel i3 8100</CPU>
+	<ps>EVGA SuperNOVA 750 G3</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>17700</price>
+</PSU>
+
+<PSU>
+<CPU>Intel i3 8100</CPU>
+	<ps>EVGA 850 GQ</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>26000</price>
+</PSU>
+
+<PSU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ps>Corsair VS450 450-Watt</ps>
+    <brand>Corsair</brand>
+    <ps_size>ATX</ps_size>
+    <price>2500</price>
+</PSU>
+
+<PSU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ps>Seasonic M12II-620</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>7800</price>
+</PSU>
+
+<PSU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ps>EVGA 500 W1</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>9200</price>
+</PSU>
+
+<PSU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ps>SeaSonic SSR-650RM</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>13300</price>
+</PSU>
+
+<PSU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ps>EVGA SuperNOVA 750 G3</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>17700</price>
+</PSU>
+
+<PSU>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<ps>EVGA 850 GQ</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>26000</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i5 8600K</CPU>
+	<ps>Corsair VS450 450-Watt</ps>
+    <brand>Corsair</brand>
+    <ps_size>ATX</ps_size>
+    <price>2500</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i5 8600K</CPU>
+	<ps>Seasonic M12II-620</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>7800</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i5 8600K</CPU>
+	<ps>EVGA 500 W1</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>9200</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i5 8600K</CPU>
+	<ps>SeaSonic SSR-650RM</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>13300</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i5 8600K</CPU>
+	<ps>EVGA SuperNOVA 750 G3</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>17700</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i5 8600K</CPU>
+	<ps>EVGA 850 GQ</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>26000</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i7-8700K</CPU>
+	<ps>Corsair VS450 450-Watt</ps>
+    <brand>Corsair</brand>
+    <ps_size>ATX</ps_size>
+    <price>2500</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i7-8700K</CPU>
+	<ps>Seasonic M12II-620</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>7800</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i7-8700K</CPU>
+	<ps>EVGA 500 W1</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>9200</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i7-8700K</CPU>
+	<ps>SeaSonic SSR-650RM</ps>
+    <brand>Sea Sonic</brand>
+    <ps_size>ATX</ps_size>
+    <price>13300</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i7-8700K</CPU>
+	<ps>EVGA SuperNOVA 750 G3</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>17700</price>
+</PSU>
+
+<PSU>
+<CPU>Intel Core i7-8700K</CPU>
+	<ps>EVGA 850 GQ</ps>
+    <brand>EVGA</brand>
+    <ps_size>ATX</ps_size>
+    <price>26000</price>
+</PSU>
+
+</PSUs>

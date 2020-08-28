@@ -1,0 +1,242 @@
+<Cabinets>
+<cb>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<cabinet>ANTEC VSK-4000B-U3</cabinet>
+    <brand>ANTEC</brand>
+    <price>2700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<cabinet>Antec GX505</cabinet>
+    <brand>ANTEC</brand>
+    <price>4200</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<cabinet>Corsair 200R</cabinet>
+    <brand>Corsair</brand>
+    <price>5700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<cabinet>Corsair 300R</cabinet>
+    <brand>Corsair</brand>
+    <price>6000</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core 2 Duo E8400</CPU>
+	<cabinet>NZXT CA-SO530-M1</cabinet>
+    <brand>NZXT</brand>
+    <price>9450</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD A4 4000</CPU>
+	<cabinet>ANTEC VSK-4000B-U3</cabinet>
+    <brand>ANTEC</brand>
+    <price>2700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD A4 4000</CPU>
+	<cabinet>Antec GX505</cabinet>
+    <brand>ANTEC</brand>
+    <price>4200</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD A4 4000</CPU>
+	<cabinet>Corsair 200R</cabinet>
+    <brand>Corsair</brand>
+    <price>5700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD A4 4000</CPU>
+	<cabinet>Corsair 300R</cabinet>
+    <brand>Corsair</brand>
+    <price>6000</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD A4 4000</CPU>
+	<cabinet>NZXT CA-SO530-M1</cabinet>
+    <brand>NZXT</brand>
+    <price>9450</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel i3 8100</CPU>
+	<cabinet>ANTEC VSK-4000B-U3</cabinet>
+    <brand>ANTEC</brand>
+    <price>2700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel i3 8100</CPU>
+	<cabinet>Antec GX505</cabinet>
+    <brand>ANTEC</brand>
+    <price>4200</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel i3 8100</CPU>
+	<cabinet>Corsair 200R</cabinet>
+    <brand>Corsair</brand>
+    <price>5700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel i3 8100</CPU>
+	<cabinet>Corsair 300R</cabinet>
+    <brand>Corsair</brand>
+    <price>6000</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel i3 8100</CPU>
+	<cabinet>NZXT CA-SO530-M1</cabinet>
+    <brand>NZXT</brand>
+    <price>9450</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<cabinet>ANTEC VSK-4000B-U3</cabinet>
+    <brand>ANTEC</brand>
+    <price>2700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<cabinet>Antec GX505</cabinet>
+    <brand>ANTEC</brand>
+    <price>4200</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<cabinet>Corsair 200R</cabinet>
+    <brand>Corsair</brand>
+    <price>5700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<cabinet>Corsair 300R</cabinet>
+    <brand>Corsair</brand>
+    <price>6000</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>AMD Ryzen 5 1600X</CPU>
+	<cabinet>NZXT CA-SO530-M1</cabinet>
+    <brand>NZXT</brand>
+    <price>9450</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i5 8600K</CPU>
+	<cabinet>ANTEC VSK-4000B-U3</cabinet>
+    <brand>ANTEC</brand>
+    <price>2700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i5 8600K</CPU>
+	<cabinet>Antec GX505</cabinet>
+    <brand>ANTEC</brand>
+    <price>4200</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i5 8600K</CPU>
+	<cabinet>Corsair 200R</cabinet>
+    <brand>Corsair</brand>
+    <price>5700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i5 8600K</CPU>
+	<cabinet>Corsair 300R</cabinet>
+    <brand>Corsair</brand>
+    <price>6000</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i5 8600K</CPU>
+	<cabinet>NZXT CA-SO530-M1</cabinet>
+    <brand>NZXT</brand>
+    <price>9450</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i7-8700K</CPU>
+	<cabinet>ANTEC VSK-4000B-U3</cabinet>
+    <brand>ANTEC</brand>
+    <price>2700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i7-8700K</CPU>
+	<cabinet>Antec GX505</cabinet>
+    <brand>ANTEC</brand>
+    <price>4200</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i7-8700K</CPU>
+	<cabinet>Corsair 200R</cabinet>
+    <brand>Corsair</brand>
+    <price>5700</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i7-8700K</CPU>
+	<cabinet>Corsair 300R</cabinet>
+    <brand>Corsair</brand>
+    <price>6000</price>
+    <cbsize>ATX</cbsize>
+</cb>
+
+<cb>
+<CPU>Intel Core i7-8700K</CPU>
+	<cabinet>NZXT CA-SO530-M1</cabinet>
+    <brand>NZXT</brand>
+    <price>9450</price>
+    <cbsize>ATX</cbsize>
+</cb>
+</Cabinets>
+

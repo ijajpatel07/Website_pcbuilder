@@ -1,0 +1,158 @@
+<Motherboard>
+
+<Mb>
+	<CPU>Intel Core 2 Duo E8400</CPU>
+	<model>Zebronics ZEB-G31</model>
+	<brand>Zebronics</brand>
+	<price>1850</price>
+	<socket>LGA775</socket>
+	<formfactor>Micro-ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel Core 2 Duo E8400</CPU>
+	<model>Mercury PIG33S</model>
+	<brand>Mercury</brand>
+	<price>3999</price>
+	<socket>LGA775</socket>
+	<formfactor>Micro-ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>AMD A4 4000</CPU>
+	<model>Asus A68HM-K</model>
+	<brand>ASUS</brand>
+	<price>3700</price>
+	<socket>FM2+</socket>
+	<formfactor>mATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>AMD A4 4000</CPU>
+	<model>Gigabyte A68HM-S1</model>
+	<brand>Gigabyte</brand>
+	<price>3800</price>
+	<socket>FM2+</socket>
+	<formfactor>Micro ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>AMD A4 4000</CPU>
+	<model>ASRock Fatal1ty FM2A88X+ Killer</model>
+	<brand>ASRock</brand>
+	<price>13500</price>
+	<socket>FM2+</socket>
+	<formfactor>ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel i3 8100</CPU>
+	<model>ASUS H110M-A/M.2</model>
+	<brand>ASUS</brand>
+	<price>6300</price>
+	<socket>LGA1151</socket>
+	<formfactor>Micro ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel i3 8100</CPU>
+	<model>GIGABYTE GA-B250M-DS3H</model>
+	<brand>GIGABYTE</brand>
+	<price>6500</price>
+	<socket>LGA1151</socket>
+	<formfactor>Micro ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel i3 8100</CPU>
+	<model>MSI Z370 Gaming Plus</model>
+	<brand>MSI</brand>
+	<price>11500</price>
+	<socket>LGA1151</socket>
+	<formfactor>ATX</formfactor>
+</Mb>
+
+
+
+<Mb>
+	<CPU>AMD Ryzen 5 1600X</CPU>
+	<model>MSI B350 PC MATE</model>
+	<brand>AMD</brand>
+	<price>8900</price>
+	<socket>AM4</socket>
+	<formfactor>ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>AMD Ryzen 5 1600X</CPU>
+	<model>Gigabyte AB350 Gaming 3</model>
+	<brand>Gigabyte</brand>
+	<price>9100</price>
+	<socket>AM4</socket>
+	<formfactor>ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>AMD Ryzen 5 1600X</CPU>
+	<model>MSI X370 KRAIT GAMING</model>
+	<brand>MSI</brand>
+	<price>14200</price>
+	<socket>AM4</socket>
+	<formfactor>ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel Core i5 8600K</CPU>
+	<model>ASUS H110M-A/M.2</model>
+	<brand>ASUS</brand>
+	<price>6300</price>
+	<socket>LGA1151</socket>
+	<formfactor>Micro ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel Core i5 8600K</CPU>
+	<model>GIGABYTE GA-B250M-DS3H</model>
+	<brand>GIGABYTE</brand>
+	<price>6500</price>
+	<socket>LGA1151</socket>
+	<formfactor>Micro ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel Core i5 8600K</CPU>
+	<model>MSI Z370 Gaming Plus</model>
+	<brand>MSI</brand>
+	<price>11500</price>
+	<socket>LGA1151</socket>
+	<formfactor>ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel Core i7-8700K</CPU>
+	<model>ASUS H110M-A/M.2</model>
+	<brand>ASUS</brand>
+	<price>6300</price>
+	<socket>LGA1151</socket>
+	<formfactor>Micro ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel Core i7-8700K</CPU>
+	<model>GIGABYTE GA-B250M-DS3H</model>
+	<brand>GIGABYTE</brand>
+	<price>6500</price>
+	<socket>LGA1151</socket>
+	<formfactor>Micro ATX</formfactor>
+</Mb>
+
+<Mb>
+	<CPU>Intel Core i7-8700K</CPU>
+	<model>MSI Z370 Gaming Plus</model>
+	<brand>MSI</brand>
+	<price>11500</price>
+	<socket>LGA1151</socket>
+	<formfactor>ATX</formfactor>
+</Mb>
+
+</Motherboard>
